@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrivacyStan
 
-- 👀 I’m interested in password generators and other secutiy and privacy related tech. 
+- 👀 I’m interested in password generators and other security and privacy related tech. 
 
 - 👀 I'm also searching for data collaboration tools that will let me control a data set but also 
 --- 1) allow approved contributors to make changes 
