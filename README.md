@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PrivacyStan
+- 👋 Hi, I’m PrivacyStan
 
 - 👀 I’m interested in password generators and other security and privacy related tech. 
 
